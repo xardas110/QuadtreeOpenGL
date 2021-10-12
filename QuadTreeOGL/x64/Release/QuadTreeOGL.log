@@ -1,0 +1,31 @@
+﻿  main.cpp
+C:\Users\Ali\source\repos\QuadtreeOpenGL\Engine\Game.h(15,14): warning C4099: 'Skybox': type name first seen using 'class' now seen using 'struct'
+C:\Users\Ali\source\repos\QuadtreeOpenGL\Engine\Skybox.h(8): message : see declaration of 'Skybox'
+  OctreeOGL.cpp
+C:\Users\Ali\source\repos\QuadtreeOpenGL\Engine\Game.h(15,14): warning C4099: 'Skybox': type name first seen using 'class' now seen using 'struct'
+C:\Users\Ali\source\repos\QuadtreeOpenGL\Engine\Skybox.h(8): message : see declaration of 'Skybox'
+  QuadTree.cpp
+C:\Users\Ali\source\repos\QuadtreeOpenGL\QuadTreeOGL\QuadTree.cpp(189,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ali\source\repos\QuadtreeOpenGL\QuadTreeOGL\QuadTree.cpp(190,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  RayCast.cpp
+  Generating code
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Application.cpp(66): warning C4715: 'Application::WndProc': not all control paths return a value
+C:\Users\Ali\source\repos\QuadtreeOpenGL\QuadTreeOGL\QuadTree.cpp(101): warning C4715: 'QuadTree::Insert': not all control paths return a value
+  754 of 2040 functions (37.0%) were compiled, the rest were copied from previous compilation.
+    131 functions were new in current compilation
+    123 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+Engine.lib(Application.obj) : warning LNK4099: PDB 'Engine.pdb' was not found with 'Engine.lib(Application.obj)' or at 'C:\Users\Ali\source\repos\QuadtreeOpenGL\x64\Release\Engine.pdb'; linking object as if no debug info
+Engine.lib(BoundingShapes.obj) : warning LNK4099: PDB 'Engine.pdb' was not found with 'Engine.lib(BoundingShapes.obj)' or at 'C:\Users\Ali\source\repos\QuadtreeOpenGL\x64\Release\Engine.pdb'; linking object as if no debug info
+Engine.lib(Raycast.obj) : warning LNK4099: PDB '' was not found with 'Engine.lib(Raycast.obj)' or at ''; linking object as if no debug info
+Engine.lib(Camera.obj) : warning LNK4099: PDB 'Engine.pdb' was not found with 'Engine.lib(Camera.obj)' or at 'C:\Users\Ali\source\repos\QuadtreeOpenGL\x64\Release\Engine.pdb'; linking object as if no debug info
+Engine.lib(Window.obj) : warning LNK4099: PDB 'Engine.pdb' was not found with 'Engine.lib(Window.obj)' or at 'C:\Users\Ali\source\repos\QuadtreeOpenGL\x64\Release\Engine.pdb'; linking object as if no debug info
+Engine.lib(Game.obj) : warning LNK4099: PDB 'Engine.pdb' was not found with 'Engine.lib(Game.obj)' or at 'C:\Users\Ali\source\repos\QuadtreeOpenGL\x64\Release\Engine.pdb'; linking object as if no debug info
+Engine.lib(Collision.obj) : warning LNK4099: PDB 'Engine.pdb' was not found with 'Engine.lib(Collision.obj)' or at 'C:\Users\Ali\source\repos\QuadtreeOpenGL\x64\Release\Engine.pdb'; linking object as if no debug info
+Engine.lib(Precompiled.obj) : warning LNK4099: PDB 'Engine.pdb' was not found with 'Engine.lib(Precompiled.obj)' or at 'C:\Users\Ali\source\repos\QuadtreeOpenGL\x64\Release\Engine.pdb'; linking object as if no debug info
+Engine.lib(glad.obj) : warning LNK4099: PDB 'Engine.pdb' was not found with 'Engine.lib(glad.obj)' or at 'C:\Users\Ali\source\repos\QuadtreeOpenGL\x64\Release\Engine.pdb'; linking object as if no debug info
+Engine.lib(Menu.obj) : warning LNK4099: PDB 'Engine.pdb' was not found with 'Engine.lib(Menu.obj)' or at 'C:\Users\Ali\source\repos\QuadtreeOpenGL\x64\Release\Engine.pdb'; linking object as if no debug info
+Engine.lib(Shader.obj) : warning LNK4099: PDB '' was not found with 'Engine.lib(Shader.obj)' or at ''; linking object as if no debug info
+Engine.lib(Skybox.obj) : warning LNK4099: PDB '' was not found with 'Engine.lib(Skybox.obj)' or at ''; linking object as if no debug info
+Engine.lib(Mesh.obj) : warning LNK4099: PDB '' was not found with 'Engine.lib(Mesh.obj)' or at ''; linking object as if no debug info
+  QuadTreeOGL.vcxproj -> C:\Users\Ali\source\repos\QuadtreeOpenGL\x64\Release\QuadTreeOGL.exe

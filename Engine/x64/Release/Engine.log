@@ -1,0 +1,56 @@
+﻿  Precompiled.cpp
+  Application.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\glad.h(644): message : see previous definition of 'APIENTRY'
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Game.h(15,14): warning C4099: 'Skybox': type name first seen using 'class' now seen using 'struct'
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Skybox.h(8): message : see declaration of 'Skybox'
+  Mesh.cpp
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Mesh.cpp(193,42): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Mesh.cpp(194,42): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Mesh.cpp(216,34): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Mesh.cpp(284,44): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Mesh.cpp(305,66): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Mesh.cpp(320,49): warning C4228: nonstandard extension used: qualifiers after comma in declarator list are ignored
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Mesh.cpp(320,76): warning C4228: nonstandard extension used: qualifiers after comma in declarator list are ignored
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Mesh.cpp(320,126): warning C4228: nonstandard extension used: qualifiers after comma in declarator list are ignored
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Mesh.cpp(320,130): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Mesh.cpp(326,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Mesh.cpp(352,61): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Shader.cpp
+  Texture.cpp
+  BoundingShapes.cpp
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Game.h(15,14): warning C4099: 'Skybox': type name first seen using 'class' now seen using 'struct'
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Skybox.h(8): message : see declaration of 'Skybox'
+  Camera.cpp
+  Collision.cpp
+  Game.cpp
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Game.h(15,14): warning C4099: 'Skybox': type name first seen using 'class' now seen using 'struct'
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Skybox.h(8): message : see declaration of 'Skybox'
+  Material.cpp
+  Menu.cpp
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Game.h(15,14): warning C4099: 'Skybox': type name first seen using 'class' now seen using 'struct'
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Skybox.h(8): message : see declaration of 'Skybox'
+  Raycast.cpp
+  Skybox.cpp
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Skybox.h(9,1): warning C4099: 'Skybox': type name first seen using 'struct' now seen using 'class'
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Skybox.h(8): message : see declaration of 'Skybox'
+  Window.cpp
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Game.h(15,14): warning C4099: 'Skybox': type name first seen using 'class' now seen using 'struct'
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Skybox.h(8): message : see declaration of 'Skybox'
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Window.cpp(124,126): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Window.cpp(136,125): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+C:\Users\Ali\source\repos\QuadTreeOGL\Engine\Window.cpp(150,121): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+  glad.c
+  Engine.vcxproj -> C:\Users\Ali\source\repos\QuadTreeOGL\lib\Engine.lib
